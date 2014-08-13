@@ -1,0 +1,21 @@
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Paint_App\Paint_App\EasyPaint\bin\Debug\EasyPaint.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Paint_App\Paint_App\EasyPaint\bin\Debug\EasyPaint.exe
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Paint_App\Paint_App\EasyPaint\bin\Debug\EasyPaint.pdb
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.exe
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.pdb
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.frmPaint.resources
+D:\Important!\Projects 2012\C#.NET\Paint_App\Paint_App\EasyPaint\bin\Debug\EasyPaint.exe.config
+D:\Important!\Projects 2012\C#.NET\Paint_App\Paint_App\EasyPaint\bin\Debug\EasyPaint.exe
+D:\Important!\Projects 2012\C#.NET\Paint_App\Paint_App\EasyPaint\bin\Debug\EasyPaint.pdb
+D:\Important!\Projects 2012\C#.NET\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.csprojResolveAssemblyReference.cache
+D:\Important!\Projects 2012\C#.NET\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.frmPaint.resources
+D:\Important!\Projects 2012\C#.NET\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.Properties.Resources.resources
+D:\Important!\Projects 2012\C#.NET\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.csproj.GenerateResource.Cache
+D:\Important!\Projects 2012\C#.NET\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.exe
+D:\Important!\Projects 2012\C#.NET\Paint_App\Paint_App\EasyPaint\obj\Debug\EasyPaint.pdb
+C:\Users\Andrey\Documents\GitHub\Paint_App\EasyPaint\bin\Debug\EasyPaint.exe.config
+C:\Users\Andrey\Documents\GitHub\Paint_App\EasyPaint\obj\Debug\EasyPaint.exe
+C:\Users\Andrey\Documents\GitHub\Paint_App\EasyPaint\obj\Debug\EasyPaint.pdb
